@@ -45,4 +45,10 @@ class AmountsTest {
     void ignoresAMessageWithNoAmountAtAll() {
         assertEquals(null, Amounts.first("Your Swiggy order is on the way!"));
     }
+
+    @Test
+    void readsWholeRupeeAmountsWithoutDecimals() {
+        assertEquals(new BigDecimal("5.00"),
+            Amounts.first("Rs.5 debited from a/c **4821. Avl Bal: Rs.92,213.10."));
+}
 }

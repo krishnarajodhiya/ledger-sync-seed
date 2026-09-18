@@ -15,4 +15,15 @@ public final class InMemoryLedgerStore implements LedgerStore {
     @Override public List<NormalizedTxn> all() { return Collections.unmodifiableList(rows); }
 
     @Override public long count() { return rows.size(); }
+    @Override
+    public boolean containsEquivalent(NormalizedTxn t) {
+        return rows.stream().anyMatch(existing ->
+                existing.accountLast4().equals(t.accountLast4())
+                && existing.occurredAt().equals(t.occurredAt())
+                && existing.direction() == t.direction()
+                && existing.amount().compareTo(t.amount()) == 0
+                && existing.merchant().trim().equalsIgnoreCase(
+                        t.merchant().trim()));
+    }
+
 }

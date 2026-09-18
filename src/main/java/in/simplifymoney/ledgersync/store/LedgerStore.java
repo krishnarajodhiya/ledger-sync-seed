@@ -16,4 +16,6 @@ public interface LedgerStore {
     List<NormalizedTxn> all();
 
     long count();
+
+    boolean containsEquivalent(NormalizedTxn txn);
 }

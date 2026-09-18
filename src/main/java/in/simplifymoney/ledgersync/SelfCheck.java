@@ -69,6 +69,15 @@ public final class SelfCheck {
             System.out.printf("           balance from ledger %s, bank says %s, difference %s%n",
                     running.toPlainString(), closing.toPlainString(),
                     running.subtract(closing).toPlainString());
+
+            System.out.println("         TRANSACTIONS:");
+            for (NormalizedTxn t : ledger) {
+                if (t.accountLast4().equals(e.getKey())) {
+                    System.out.printf("         %s | %s | %s | %s | %s%n",
+                            t.occurredAt(), t.direction(), t.amount(),
+                            t.category(), t.merchant());
+                }
+            }
         }
         System.out.println("\nThis is the starting point, not the finish line.");
     }

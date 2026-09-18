@@ -1,0 +1,533 @@
+> Task :compileJava UP-TO-DATE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+
+> Task :run
+SKIPPED: 2026-07-01T09:02+05:30 | 4821 | CREDIT | 45000.00 | SALARY CREDIT | fingerprint=false store=true
+SKIPPED: 2026-07-01T09:02+05:30 | 4821 | CREDIT | 45000.00 | SALARY CREDIT | fingerprint=true store=true
+SKIPPED: 2026-07-01T10:22+05:30 | 9075 | DEBIT | 22.50 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-07-01T11:52+05:30 | 4821 | DEBIT | 99.99 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-07-01T18:57+05:30 | 4821 | DEBIT | 99.99 | IRCTC | fingerprint=false store=true
+SKIPPED: 2026-07-01T18:57+05:30 | 4821 | DEBIT | 99.99 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-01T19:05+05:30 | 4821 | DEBIT | 1249.99 | BLINKIT | fingerprint=false store=true
+UNPARSED: id=m-00314-a059eb | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9856586
+SKIPPED: 2026-07-01T20:14+05:30 | 4821 | DEBIT | 75.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-07-01T21:14+05:30 | 9075 | CREDIT | 18000.00 | NEFT INWARD SELF | fingerprint=false store=true
+SKIPPED: 2026-07-02T11:04+05:30 | 4821 | DEBIT | 76.49 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-02T11:14+05:30 | 4821 | DEBIT | 47.33 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-07-02T11:04+05:30 | 4821 | DEBIT | 76.49 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-02T11:14+05:30 | 4821 | DEBIT | 47.33 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-07-02T18:38+05:30 | 4821 | DEBIT | 80.00 | UPI/KIRANA STORE | fingerprint=false store=true
+SKIPPED: 2026-07-02T19:42+05:30 | 4821 | DEBIT | 30.00 | UPI/KIRANA STORE | fingerprint=false store=true
+SKIPPED: 2026-07-03T08:20+05:30 | 4821 | DEBIT | 10.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-07-03T10:41+05:30 | 4821 | DEBIT | 5.00 | UPI/PARKING | fingerprint=false store=true
+SKIPPED: 2026-07-03T11:51+05:30 | 3310 | DEBIT | 1249.99 | BLINKIT | fingerprint=false store=true
+UNPARSED: id=m-00315-800f10 | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/4451179
+SKIPPED: 2026-07-03T19:48+05:30 | 4821 | CREDIT | 780.49 | UPI/P2P/REFUND | fingerprint=false store=true
+SKIPPED: 2026-07-04T07:54+05:30 | 9075 | DEBIT | 25.00 | UPI/STATIONERY | fingerprint=false store=true
+SKIPPED: 2026-07-04T08:25+05:30 | 9075 | DEBIT | 100.00 | UPI/KIRANA STORE | fingerprint=false store=true
+SKIPPED: 2026-07-04T11:54+05:30 | 4821 | DEBIT | 5.00 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-07-04T12:24+05:30 | 4821 | DEBIT | 154.49 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-04T12:24+05:30 | 4821 | DEBIT | 154.49 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-04T13:56+05:30 | 4821 | DEBIT | 2499.50 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-07-04T14:48+05:30 | 4821 | DEBIT | 218.51 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-07-04T13:56+05:30 | 4821 | DEBIT | 2499.50 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-07-04T18:41+05:30 | 3310 | DEBIT | 47.33 | DMART | fingerprint=false store=true
+SKIPPED: 2026-07-05T09:06+05:30 | 4821 | DEBIT | 35.00 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-07-05T10:14+05:30 | 4821 | DEBIT | 1234.56 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-07-05T11:00+05:30 | 4821 | DEBIT | 8000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-07-05T11:02+05:30 | 9075 | CREDIT | 8000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-07-05T11:03+05:30 | 4821 | DEBIT | 89.01 | PVR CINEMAS | fingerprint=false store=true
+SKIPPED: 2026-07-05T11:03+05:30 | 4821 | DEBIT | 89.01 | PVR CINEMAS | fingerprint=true store=true
+SKIPPED: 2026-07-05T17:06+05:30 | 9075 | DEBIT | 80.00 | UPI/AUTO RICKSHAW | fingerprint=false store=true
+SKIPPED: 2026-07-05T19:40+05:30 | 4821 | DEBIT | 129.67 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-07-06T09:09+05:30 | 4821 | DEBIT | 62.67 | SPOTIFY IND | fingerprint=false store=true
+SKIPPED: 2026-07-06T11:25+05:30 | 9075 | DEBIT | 129.67 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-06T11:25+05:30 | 9075 | DEBIT | 129.67 | RELIANCE SMART | fingerprint=true store=true
+UNPARSED: id=m-00316-92e134 | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/5345344
+SKIPPED: 2026-07-06T20:36+05:30 | 4821 | DEBIT | 20.00 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-07-07T11:31+05:30 | 4821 | DEBIT | 66.67 | UPI/PARKING | fingerprint=false store=true
+SKIPPED: 2026-07-07T16:48+05:30 | 9075 | DEBIT | 2750.00 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-07-07T17:21+05:30 | 9075 | DEBIT | 154.49 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-07-07T18:08+05:30 | 4821 | DEBIT | 60.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-07-07T20:13+05:30 | 4821 | DEBIT | 789.01 | PVR CINEMAS | fingerprint=false store=true
+SKIPPED: 2026-07-07T22:25+05:30 | 4821 | DEBIT | 30.00 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-07-08T08:24+05:30 | 9075 | DEBIT | 15.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-07-08T08:27+05:30 | 9075 | DEBIT | 90.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-07-08T09:03+05:30 | 9075 | DEBIT | 449.67 | PVR CINEMAS | fingerprint=false store=true
+SKIPPED: 2026-07-08T09:03+05:30 | 9075 | DEBIT | 449.67 | PVR CINEMAS | fingerprint=true store=true
+UNPARSED: id=m-00317-6be1e0 | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/8723400
+UNPARSED: id=m-00335-fd8f64 | channel=sms | sender=VK-ICICIB | body=Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/152459 to avoid debit of Rs.5126.00
+SKIPPED: 2026-07-08T16:35+05:30 | 4821 | DEBIT | 154.49 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-07-08T18:58+05:30 | 9075 | DEBIT | 99.99 | DMART | fingerprint=false store=true
+SKIPPED: 2026-07-08T18:58+05:30 | 9075 | DEBIT | 99.99 | DMART | fingerprint=true store=true
+SKIPPED: 2026-07-09T12:17+05:30 | 4821 | DEBIT | 99.00 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-07-09T13:23+05:30 | 9075 | DEBIT | 333.33 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-07-09T13:23+05:30 | 9075 | DEBIT | 333.33 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-07-09T15:07+05:30 | 4821 | DEBIT | 2499.50 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-07-09T15:07+05:30 | 4821 | DEBIT | 2499.50 | BIGBASKET | fingerprint=true store=true
+SKIPPED: 2026-07-09T17:02+05:30 | 4821 | DEBIT | 40.00 | UPI/KIRANA STORE | fingerprint=false store=true
+SKIPPED: 2026-07-09T18:10+05:30 | 9075 | DEBIT | 1999.01 | SPOTIFY IND | fingerprint=false store=true
+SKIPPED: 2026-07-09T19:15+05:30 | 4821 | DEBIT | 10.00 | UPI/AUTO RICKSHAW | fingerprint=false store=true
+SKIPPED: 2026-07-09T18:10+05:30 | 9075 | DEBIT | 1999.01 | SPOTIFY IND | fingerprint=true store=true
+SKIPPED: 2026-07-10T07:57+05:30 | 4821 | DEBIT | 60.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-07-10T08:36+05:30 | 4821 | DEBIT | 62.67 | PVR CINEMAS | fingerprint=false store=true
+SKIPPED: 2026-07-10T10:15+05:30 | 9075 | DEBIT | 789.01 | SPOTIFY IND | fingerprint=false store=true
+SKIPPED: 2026-07-10T10:15+05:30 | 9075 | DEBIT | 789.01 | SPOTIFY IND | fingerprint=true store=true
+SKIPPED: 2026-07-10T10:47+05:30 | 4821 | DEBIT | 22.50 | UPI/AUTO RICKSHAW | fingerprint=false store=true
+SKIPPED: 2026-07-10T13:41+05:30 | 4821 | DEBIT | 249.00 | BLINKIT | fingerprint=false store=true
+SKIPPED: 2026-07-10T13:44+05:30 | 4821 | DEBIT | 249.00 | BLINKIT | fingerprint=false store=true
+SKIPPED: 2026-07-11T14:24+05:30 | 4821 | DEBIT | 62.67 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-11T15:16+05:30 | 9075 | DEBIT | 5.00 | UPI/KIRANA STORE | fingerprint=false store=true
+UNPARSED: id=m-00318-86f749 | channel=sms | sender=AD-HDFCBK-S | body=Avl Bal in a/c **9075 is Rs.50,862.08 as on 11-07-26. Download HDFC Bank MobileBanking app.
+SKIPPED: 2026-07-11T16:21+05:30 | 4821 | CREDIT | 1899.67 | SALARY CREDIT | fingerprint=false store=true
+SKIPPED: 2026-07-11T14:24+05:30 | 4821 | DEBIT | 62.67 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-11T20:58+05:30 | 9075 | DEBIT | 40.00 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-07-11T22:20+05:30 | 9075 | DEBIT | 100.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-07-11T22:45+05:30 | 4821 | DEBIT | 1234.56 | IRCTC | fingerprint=false store=true
+SKIPPED: 2026-07-12T08:34+05:30 | 9075 | DEBIT | 15.00 | UPI/KIRANA STORE | fingerprint=false store=true
+SKIPPED: 2026-07-12T12:29+05:30 | 3310 | DEBIT | 899.99 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-07-12T15:53+05:30 | 3310 | DEBIT | 47.33 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-07-12T17:59+05:30 | 3310 | DEBIT | 1999.01 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-12T19:12+05:30 | 9075 | DEBIT | 1899.00 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-07-12T19:12+05:30 | 9075 | DEBIT | 1899.00 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-07-12T19:22+05:30 | 4821 | DEBIT | 22.50 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-07-13T08:42+05:30 | 4821 | DEBIT | 99.99 | NETFLIX | fingerprint=false store=true
+SKIPPED: 2026-07-13T08:42+05:30 | 4821 | DEBIT | 99.99 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-07-13T16:30+05:30 | 9075 | DEBIT | 5.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-07-13T20:11+05:30 | 4821 | DEBIT | 333.33 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-07-14T08:18+05:30 | 4821 | DEBIT | 1249.99 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-07-14T12:07+05:30 | 9075 | DEBIT | 2500.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-07-14T12:09+05:30 | 4821 | CREDIT | 2500.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-07-14T14:28+05:30 | 4821 | DEBIT | 449.67 | AMAZON PAY | fingerprint=false store=true
+SKIPPED: 2026-07-14T14:28+05:30 | 4821 | DEBIT | 449.67 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-07-14T16:01+05:30 | 9075 | DEBIT | 60.00 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-07-14T17:24+05:30 | 4821 | DEBIT | 99.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-07-14T17:56+05:30 | 4821 | DEBIT | 18.00 | UPI/PAN SHOP | fingerprint=false store=true
+SKIPPED: 2026-07-14T19:13+05:30 | 4821 | DEBIT | 1249.99 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-07-14T20:37+05:30 | 4821 | DEBIT | 47.33 | NETFLIX | fingerprint=false store=true
+SKIPPED: 2026-07-14T19:13+05:30 | 4821 | DEBIT | 1249.99 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-07-15T08:28+05:30 | 4821 | DEBIT | 76.49 | PVR CINEMAS | fingerprint=false store=true
+SKIPPED: 2026-07-15T09:06+05:30 | 9075 | DEBIT | 47.33 | SPOTIFY IND | fingerprint=false store=true
+SKIPPED: 2026-07-15T09:06+05:30 | 9075 | DEBIT | 47.33 | SPOTIFY IND | fingerprint=true store=true
+SKIPPED: 2026-07-15T08:28+05:30 | 4821 | DEBIT | 76.49 | PVR CINEMAS | fingerprint=true store=true
+UNPARSED: id=m-00319-3e76e0 | channel=sms | sender=AX-SWGGYX | body=Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: 2026-07-15T13:09+05:30 | 4821 | DEBIT | 25.00 | UPI/AUTO RICKSHAW | fingerprint=false store=true
+SKIPPED: 2026-07-15T14:06+05:30 | 4821 | DEBIT | 35.00 | UPI/STATIONERY | fingerprint=false store=true
+SKIPPED: 2026-07-15T14:56+05:30 | 4821 | DEBIT | 1234.56 | NETFLIX | fingerprint=false store=true
+SKIPPED: 2026-07-15T14:56+05:30 | 4821 | DEBIT | 1234.56 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-07-15T15:27+05:30 | 4821 | DEBIT | 675.67 | NETFLIX | fingerprint=false store=true
+SKIPPED: 2026-07-15T15:27+05:30 | 4821 | DEBIT | 675.67 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-07-15T19:07+05:30 | 9075 | DEBIT | 66.67 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-07-15T20:05+05:30 | 4821 | DEBIT | 3000.00 | ATM WDL NOIDA | fingerprint=false store=true
+SKIPPED: 2026-07-16T08:06+05:30 | 3310 | DEBIT | 89.01 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-07-16T09:59+05:30 | 9075 | DEBIT | 3333.33 | ZOMATO | fingerprint=false store=true
+SKIPPED: 2026-07-16T11:30+05:30 | 4821 | CREDIT | 3000.00 | REVERSAL ATM WDL NOIDA | fingerprint=false store=true
+SKIPPED: 2026-07-16T11:59+05:30 | 9075 | DEBIT | 1111.11 | ZOMATO | fingerprint=false store=true
+SKIPPED: 2026-07-16T14:09+05:30 | 4821 | DEBIT | 90.00 | UPI/PAN SHOP | fingerprint=false store=true
+SKIPPED: 2026-07-16T15:54+05:30 | 3310 | DEBIT | 1111.11 | AMAZON PAY | fingerprint=false store=true
+SKIPPED: 2026-07-07T16:48+05:30 | 9075 | DEBIT | 2750.00 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-07-16T17:20+05:30 | 4821 | DEBIT | 5.00 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-07-17T10:10+05:30 | 9075 | DEBIT | 90.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-07-17T12:40+05:30 | 9075 | DEBIT | 5.00 | UPI/TEA STALL | fingerprint=false store=true
+UNPARSED: id=m-00320-59ff37 | channel=sms | sender=AD-HDFCBK-S | body=268880 is your OTP for txn of Rs.5160.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-07-17T13:25+05:30 | 9075 | DEBIT | 62.67 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-07-17T13:25+05:30 | 9075 | DEBIT | 62.67 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-07-17T13:37+05:30 | 4821 | DEBIT | 1234.56 | INDIAN OIL | fingerprint=false store=true
+UNPARSED: id=m-00336-0ff1fc | channel=sms | sender=VK-ICICIB | body=Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/160593 to avoid debit of Rs.22539.00
+SKIPPED: 2026-07-17T17:56+05:30 | 3310 | DEBIT | 1234.56 | BLINKIT | fingerprint=false store=true
+SKIPPED: 2026-07-18T08:30+05:30 | 9075 | DEBIT | 18.00 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-07-18T09:19+05:30 | 4821 | DEBIT | 99.99 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-07-18T11:06+05:30 | 4821 | DEBIT | 90.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-07-18T12:13+05:30 | 4821 | DEBIT | 40.00 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-07-18T17:09+05:30 | 3310 | DEBIT | 1111.11 | DMART | fingerprint=false store=true
+SKIPPED: 2026-07-19T00:20+05:30 | 4821 | DEBIT | 412.67 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-07-18T18:50Z | 4821 | DEBIT | 412.67 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-07-19T14:08+05:30 | 4821 | DEBIT | 15.00 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-07-19T16:19+05:30 | 9075 | DEBIT | 675.67 | BLINKIT | fingerprint=false store=true
+SKIPPED: 2026-07-19T16:19+05:30 | 9075 | DEBIT | 675.67 | BLINKIT | fingerprint=true store=true
+SKIPPED: 2026-07-19T20:46+05:30 | 3310 | DEBIT | 675.67 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-19T22:36+05:30 | 4821 | CREDIT | 780.49 | NEFT INWARD | fingerprint=false store=true
+SKIPPED: 2026-07-20T08:53+05:30 | 9075 | DEBIT | 75.00 | UPI/PARKING | fingerprint=false store=true
+SKIPPED: 2026-07-20T09:22+05:30 | 9075 | DEBIT | 675.67 | SPOTIFY IND | fingerprint=false store=true
+UNPARSED: id=m-00321-9c31f5 | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9214053
+SKIPPED: 2026-07-20T10:47+05:30 | 4821 | DEBIT | 62.67 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-07-20T10:47+05:30 | 4821 | DEBIT | 62.67 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-07-20T15:29+05:30 | 9075 | DEBIT | 154.49 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-20T15:29+05:30 | 9075 | DEBIT | 154.49 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-20T21:38+05:30 | 3310 | DEBIT | 449.67 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-07-20T22:18+05:30 | 9075 | DEBIT | 90.00 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-07-21T09:02+05:30 | 4821 | DEBIT | 30.00 | UPI/AUTO RICKSHAW | fingerprint=false store=true
+SKIPPED: 2026-07-21T13:14+05:30 | 4821 | DEBIT | 12000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-07-21T13:16+05:30 | 9075 | CREDIT | 12000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-07-21T13:35+05:30 | 3310 | DEBIT | 3333.33 | SPOTIFY IND | fingerprint=false store=true
+UNPARSED: id=m-00322-aff402 | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/7047803
+SKIPPED: 2026-07-21T16:16+05:30 | 9075 | DEBIT | 12.50 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-07-21T18:40+05:30 | 4821 | DEBIT | 12000.00 | IMPS/P2A/RAHUL SHARMA | fingerprint=false store=true
+SKIPPED: 2026-07-21T20:32+05:30 | 4821 | DEBIT | 47.33 | DMART | fingerprint=false store=true
+SKIPPED: 2026-07-21T20:32+05:30 | 4821 | DEBIT | 47.33 | DMART | fingerprint=true store=true
+UNPARSED: id=m-00153-5f75ad | channel=sms | sender=AD-HDFCBK-S | body=E-mandate! Rs.649.00 will be deducted from your HDFC Bank A/c XX4821 on 22-07-26 at 06:15 for NETFLIX ENTERTAINMENT. Avl Bal: Rs.46,868.04
+SKIPPED: 2026-07-22T06:15+05:30 | 4821 | DEBIT | 649.00 | NETFLIX ENTERTAINMENT | fingerprint=false store=true
+SKIPPED: 2026-07-22T08:26+05:30 | 9075 | DEBIT | 100.00 | UPI/KIRANA STORE | fingerprint=false store=true
+SKIPPED: 2026-07-22T12:18+05:30 | 4821 | DEBIT | 675.67 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-07-22T13:48+05:30 | 9075 | DEBIT | 129.67 | PVR CINEMAS | fingerprint=false store=true
+UNPARSED: id=m-00323-fd114c | channel=sms | sender=VM-ICICIB-T | body=Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: 2026-07-22T16:30+05:30 | 4821 | CREDIT | 212.67 | CASHBACK | fingerprint=false store=true
+SKIPPED: 2026-07-22T19:55+05:30 | 4821 | DEBIT | 50.00 | UPI/KIRANA STORE | fingerprint=false store=true
+SKIPPED: 2026-07-23T08:23+05:30 | 3310 | DEBIT | 675.67 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-07-23T16:52+05:30 | 9075 | CREDIT | 1250.33 | INTEREST CREDIT | fingerprint=false store=true
+SKIPPED: 2026-07-23T18:41+05:30 | 9075 | DEBIT | 5.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-07-23T21:41+05:30 | 9075 | DEBIT | 10.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-07-23T22:16+05:30 | 4821 | DEBIT | 675.67 | IRCTC | fingerprint=false store=true
+SKIPPED: 2026-07-24T09:15+05:30 | 4821 | DEBIT | 1249.99 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-07-24T12:28+05:30 | 9075 | DEBIT | 12.50 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-07-24T12:54+05:30 | 4821 | DEBIT | 100.00 | UPI/PARKING | fingerprint=false store=true
+UNPARSED: id=m-00324-b27e28 | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/2305902
+SKIPPED: 2026-07-24T13:31+05:30 | 4821 | DEBIT | 2499.50 | IRCTC | fingerprint=false store=true
+SKIPPED: 2026-07-24T13:31+05:30 | 4821 | DEBIT | 2499.50 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-24T14:34+05:30 | 4821 | DEBIT | 789.01 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-07-24T15:24+05:30 | 4821 | DEBIT | 449.67 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-25T08:54+05:30 | 9075 | DEBIT | 12.50 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-07-25T12:44+05:30 | 4821 | CREDIT | 1250.33 | UPI/P2P/REFUND | fingerprint=false store=true
+SKIPPED: 2026-07-25T12:44+05:30 | 4821 | CREDIT | 1250.33 | UPI/P2P/REFUND | fingerprint=true store=true
+SKIPPED: 2026-07-25T13:02+05:30 | 4821 | DEBIT | 2499.50 | DMART | fingerprint=false store=true
+SKIPPED: 2026-07-25T14:22+05:30 | 3310 | DEBIT | 218.51 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-07-25T15:00+05:30 | 9075 | DEBIT | 50.00 | UPI/XEROX | fingerprint=false store=true
+UNPARSED: id=m-00337-52e5fb | channel=sms | sender=VK-ICICIB | body=Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/889473 to avoid debit of Rs.9846.00
+SKIPPED: 2026-07-25T16:20+05:30 | 9075 | DEBIT | 75.00 | UPI/STATIONERY | fingerprint=false store=true
+SKIPPED: 2026-07-26T07:29+05:30 | 4821 | DEBIT | 40.00 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-07-26T09:47+05:30 | 4821 | DEBIT | 99.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-07-26T09:50+05:30 | 9075 | DEBIT | 675.67 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-07-26T10:05+05:30 | 9075 | DEBIT | 0.50 | UPI MANDATE VERIFY | fingerprint=false store=true
+SKIPPED: 2026-07-26T14:23+05:30 | 4821 | DEBIT | 89.01 | BLINKIT | fingerprint=false store=true
+UNPARSED: id=m-00325-3ee339 | channel=sms | sender=VM-ICICIB-T | body=Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: 2026-07-26T22:54+05:30 | 4821 | CREDIT | 780.49 | NEFT INWARD | fingerprint=false store=true
+SKIPPED: 2026-07-27T12:00+05:30 | 9075 | DEBIT | 4200.00 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-07-27T12:09+05:30 | 4821 | DEBIT | 5.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-07-27T13:05+05:30 | 9075 | CREDIT | 4200.00 | MYNTRA REFUND | fingerprint=false store=true
+SKIPPED: 2026-07-27T15:30+05:30 | 4821 | DEBIT | 90.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-07-27T18:30+05:30 | 4821 | DEBIT | 899.99 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-27T18:30+05:30 | 4821 | DEBIT | 899.99 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-27T19:37+05:30 | 3310 | DEBIT | 5555.55 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-07-27T22:16+05:30 | 4821 | DEBIT | 100.00 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-07-28T08:59+05:30 | 9075 | DEBIT | 89.01 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-07-28T11:54+05:30 | 4821 | DEBIT | 899.99 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-07-28T12:01+05:30 | 9075 | DEBIT | 1111.11 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-07-28T11:54+05:30 | 4821 | DEBIT | 899.99 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-07-28T12:38+05:30 | 9075 | DEBIT | 45.50 | UPI/PAN SHOP | fingerprint=false store=true
+SKIPPED: 2026-07-28T22:55+05:30 | 4821 | DEBIT | 45.50 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-07-29T08:20+05:30 | 9075 | DEBIT | 90.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-07-29T09:13+05:30 | 9075 | DEBIT | 2499.50 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-07-29T09:13+05:30 | 9075 | DEBIT | 2499.50 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-07-29T09:20+05:30 | 4821 | DEBIT | 899.99 | ZOMATO | fingerprint=false store=true
+SKIPPED: 2026-07-29T11:53+05:30 | 4821 | DEBIT | 899.99 | IRCTC | fingerprint=false store=true
+SKIPPED: 2026-07-29T17:06+05:30 | 4821 | DEBIT | 75.00 | UPI/STATIONERY | fingerprint=false store=true
+SKIPPED: 2026-07-29T21:22+05:30 | 4821 | DEBIT | 1234.56 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-07-29T21:22+05:30 | 4821 | DEBIT | 1234.56 | UBER INDIA | fingerprint=true store=true
+UNPARSED: id=m-00326-dd1531 | channel=sms | sender=AD-HDFCBK-S | body=Avl Bal in a/c **4821 is Rs.27,244.49 as on 30-07-26. Download HDFC Bank MobileBanking app.
+SKIPPED: 2026-07-30T13:56+05:30 | 9075 | DEBIT | 76.49 | NETFLIX | fingerprint=false store=true
+SKIPPED: 2026-07-30T13:56+05:30 | 9075 | DEBIT | 76.49 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-07-30T17:12+05:30 | 9075 | DEBIT | 30.00 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-07-30T17:28+05:30 | 9075 | DEBIT | 90.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-07-30T20:11+05:30 | 4821 | DEBIT | 154.49 | SPOTIFY IND | fingerprint=false store=true
+SKIPPED: 2026-07-30T21:06+05:30 | 4821 | DEBIT | 5555.55 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-07-30T21:43+05:30 | 9075 | DEBIT | 45.50 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-07-31T11:41+05:30 | 3310 | DEBIT | 47.33 | APOLLO PHARMACY | fingerprint=false store=true
+UNPARSED: id=m-00327-10d79f | channel=sms | sender=AX-SWGGYX | body=Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: 2026-07-31T14:13+05:30 | 4821 | DEBIT | 30.00 | UPI/STATIONERY | fingerprint=false store=true
+SKIPPED: 2026-07-31T14:47+05:30 | 4821 | DEBIT | 675.67 | IRCTC | fingerprint=false store=true
+SKIPPED: 2026-07-31T20:27+05:30 | 4821 | DEBIT | 99.99 | IRCTC | fingerprint=false store=true
+SKIPPED: 2026-07-31T20:27+05:30 | 4821 | DEBIT | 99.99 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-31T22:36+05:30 | 4821 | DEBIT | 5555.55 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-07-31T22:36+05:30 | 4821 | DEBIT | 5555.55 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-08-01T09:02+05:30 | 4821 | CREDIT | 45000.00 | SALARY CREDIT | fingerprint=false store=true
+SKIPPED: 2026-08-01T09:02+05:30 | 4821 | CREDIT | 45000.00 | SALARY CREDIT | fingerprint=true store=true
+SKIPPED: 2026-08-01T12:55+05:30 | 4821 | DEBIT | 154.49 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-08-01T14:06+05:30 | 4821 | DEBIT | 1249.99 | RELIANCE SMART | fingerprint=false store=true
+SKIPPED: 2026-08-01T14:21+05:30 | 4821 | DEBIT | 5000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-08-01T14:22+05:30 | 9075 | CREDIT | 5000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-08-01T18:42+05:30 | 9075 | DEBIT | 20.00 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-08-01T20:06+05:30 | 4821 | DEBIT | 20.00 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-08-01T20:16+05:30 | 9075 | DEBIT | 5555.55 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-08-01T21:14+05:30 | 9075 | CREDIT | 18000.00 | NEFT INWARD SELF | fingerprint=false store=true
+SKIPPED: 2026-08-02T08:11+05:30 | 4821 | CREDIT | 1899.67 | SALARY CREDIT | fingerprint=false store=true
+SKIPPED: 2026-08-02T13:42+05:30 | 4821 | DEBIT | 25.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-08-02T13:46+05:30 | 4821 | DEBIT | 99.99 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-08-02T13:55+05:30 | 4821 | CREDIT | 212.67 | CASHBACK | fingerprint=false store=true
+SKIPPED: 2026-08-03T08:07+05:30 | 9075 | DEBIT | 1999.01 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-08-03T08:07+05:30 | 9075 | DEBIT | 1999.01 | INDIAN OIL | fingerprint=true store=true
+UNPARSED: id=m-00328-540556 | channel=sms | sender=AD-HDFCBK-S | body=Avl Bal in a/c **9075 is Rs.63,353.46 as on 03-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: 2026-08-03T16:43+05:30 | 4821 | DEBIT | 10.00 | UPI/PAN SHOP | fingerprint=false store=true
+SKIPPED: 2026-08-03T19:56+05:30 | 4821 | DEBIT | 1111.11 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-08-03T19:56+05:30 | 4821 | DEBIT | 1111.11 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-08-03T20:10+05:30 | 9075 | DEBIT | 89.01 | NETFLIX | fingerprint=false store=true
+SKIPPED: 2026-08-04T10:59+05:30 | 3310 | DEBIT | 3333.33 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-08-04T17:26+05:30 | 4821 | DEBIT | 2499.50 | AMAZON PAY | fingerprint=false store=true
+SKIPPED: 2026-08-04T17:26+05:30 | 4821 | DEBIT | 2499.50 | AMAZON PAY | fingerprint=true store=true
+UNPARSED: id=m-00329-cf664f | channel=sms | sender=AD-HDFCBK-S | body=541027 is your OTP for txn of Rs.6214.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-08-04T19:50+05:30 | 4821 | DEBIT | 30.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-08-04T22:36+05:30 | 4821 | DEBIT | 333.33 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-08-04T22:36+05:30 | 4821 | DEBIT | 333.33 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-08-05T07:51+05:30 | 9075 | DEBIT | 25.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-08-05T10:01+05:30 | 9075 | DEBIT | 15.00 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-08-05T10:41+05:30 | 9075 | DEBIT | 100.00 | UPI/AUTO RICKSHAW | fingerprint=false store=true
+UNPARSED: id=m-00330-34897c | channel=sms | sender=AD-HDFCBK-S | body=Avl Bal in a/c **9075 is Rs.63,124.45 as on 05-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: 2026-08-05T17:12+05:30 | 4821 | DEBIT | 89.01 | SPOTIFY IND | fingerprint=false store=true
+SKIPPED: 2026-08-05T22:42+05:30 | 9075 | DEBIT | 99.99 | BLINKIT | fingerprint=false store=true
+SKIPPED: 2026-08-05T22:42+05:30 | 9075 | DEBIT | 99.99 | BLINKIT | fingerprint=true store=true
+SKIPPED: 2026-08-06T08:27+05:30 | 9075 | DEBIT | 899.99 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-08-06T08:27+05:30 | 9075 | DEBIT | 899.99 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-08-06T09:36+05:30 | 9075 | DEBIT | 30.00 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-08-06T16:18+05:30 | 4821 | DEBIT | 22.50 | UPI/PARKING | fingerprint=false store=true
+SKIPPED: 2026-08-06T16:37+05:30 | 4821 | DEBIT | 12.50 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-08-06T16:50+05:30 | 9075 | DEBIT | 76.49 | DMART | fingerprint=false store=true
+SKIPPED: 2026-08-06T16:50+05:30 | 9075 | DEBIT | 76.49 | DMART | fingerprint=true store=true
+UNPARSED: id=m-00331-0be670 | channel=sms | sender=AX-SWGGYX | body=Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: 2026-08-06T20:08+05:30 | 9075 | DEBIT | 47.33 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-08-07T09:04+05:30 | 4821 | DEBIT | 99.99 | INDIAN OIL | fingerprint=false store=true
+SKIPPED: 2026-08-07T09:04+05:30 | 4821 | DEBIT | 99.99 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-08-07T14:37+05:30 | 9075 | DEBIT | 20.00 | UPI/CHAIWALA | fingerprint=false store=true
+SKIPPED: 2026-08-07T15:28+05:30 | 9075 | DEBIT | 3500.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+SKIPPED: 2026-08-07T15:30+05:30 | 4821 | CREDIT | 3500.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=false store=true
+UNPARSED: id=m-00332-87ee5a | channel=sms | sender=AX-SWGGYX | body=Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: 2026-08-07T18:40+05:30 | 9075 | DEBIT | 675.67 | ZOMATO | fingerprint=false store=true
+SKIPPED: 2026-08-07T18:40+05:30 | 9075 | DEBIT | 675.67 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-08-07T20:08+05:30 | 9075 | DEBIT | 66.67 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-08-07T20:26+05:30 | 4821 | DEBIT | 3333.33 | DMART | fingerprint=false store=true
+SKIPPED: 2026-08-07T22:45+05:30 | 4821 | CREDIT | 212.67 | UPI/P2P/REFUND | fingerprint=false store=true
+SKIPPED: 2026-08-08T13:05+05:30 | 4821 | DEBIT | 675.67 | AMAZON PAY | fingerprint=false store=true
+SKIPPED: 2026-08-08T15:05+05:30 | 4821 | DEBIT | 2499.50 | RELIANCE SMART | fingerprint=false store=true
+UNPARSED: id=m-00333-cdb1af | channel=sms | sender=AD-HDFCBK-S | body=784544 is your OTP for txn of Rs.5850.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-08-08T19:05+05:30 | 9075 | DEBIT | 50.00 | UPI/TEA STALL | fingerprint=false store=true
+SKIPPED: 2026-08-08T20:17+05:30 | 4821 | DEBIT | 2499.50 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-08-08T21:19+05:30 | 4821 | DEBIT | 1234.56 | AMAZON PAY | fingerprint=false store=true
+SKIPPED: 2026-08-09T09:50+05:30 | 9075 | DEBIT | 75.00 | UPI/AUTO RICKSHAW | fingerprint=false store=true
+SKIPPED: 2026-08-09T18:04+05:30 | 9075 | DEBIT | 2499.50 | SWIGGY | fingerprint=false store=true
+SKIPPED: 2026-08-09T18:08+05:30 | 3310 | DEBIT | 899.99 | BLINKIT | fingerprint=false store=true
+SKIPPED: 2026-08-09T20:44+05:30 | 9075 | DEBIT | 45.50 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-08-09T21:59+05:30 | 4821 | DEBIT | 25.00 | UPI/BARBER | fingerprint=false store=true
+SKIPPED: 2026-08-10T11:11+05:30 | 9075 | DEBIT | 218.51 | ZOMATO | fingerprint=false store=true
+SKIPPED: 2026-08-10T12:30+05:30 | 4821 | DEBIT | 1249.99 | UBER INDIA | fingerprint=false store=true
+SKIPPED: 2026-08-10T12:30+05:30 | 4821 | DEBIT | 1249.99 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-08-10T19:24+05:30 | 4821 | DEBIT | 100.00 | UPI/VEGETABLE VENDOR | fingerprint=false store=true
+SKIPPED: 2026-08-10T21:30+05:30 | 9075 | DEBIT | 2499.50 | ZOMATO | fingerprint=false store=true
+SKIPPED: 2026-08-10T21:53+05:30 | 3310 | DEBIT | 899.99 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-08-10T21:30+05:30 | 9075 | DEBIT | 2499.50 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-08-11T09:09+05:30 | 4821 | DEBIT | 15.00 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-08-11T10:00+05:30 | 4821 | DEBIT | 66.67 | UPI/CHAIWALA | fingerprint=false store=true
+UNPARSED: id=m-00334-507599 | channel=sms | sender=AD-HDFCBK-S | body=843106 is your OTP for txn of Rs.7806.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-08-11T13:23+05:30 | 4821 | CREDIT | 212.67 | SALARY CREDIT | fingerprint=false store=true
+SKIPPED: 2026-08-11T15:46+05:30 | 4821 | DEBIT | 899.99 | BLINKIT | fingerprint=false store=true
+SKIPPED: 2026-08-11T22:42+05:30 | 4821 | DEBIT | 18.00 | UPI/PARKING | fingerprint=false store=true
+SKIPPED: 2026-08-12T08:40+05:30 | 9075 | DEBIT | 99.99 | APOLLO PHARMACY | fingerprint=false store=true
+SKIPPED: 2026-08-12T08:40+05:30 | 9075 | DEBIT | 99.99 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-08-12T12:52+05:30 | 9075 | DEBIT | 80.00 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-08-12T13:33+05:30 | 4821 | DEBIT | 99.00 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-08-12T17:03+05:30 | 9075 | DEBIT | 789.01 | SPOTIFY IND | fingerprint=false store=true
+SKIPPED: 2026-08-12T17:44+05:30 | 4821 | DEBIT | 218.51 | MYNTRA | fingerprint=false store=true
+SKIPPED: 2026-08-12T19:59+05:30 | 3310 | DEBIT | 62.67 | BIGBASKET | fingerprint=false store=true
+SKIPPED: 2026-08-12T17:44+05:30 | 4821 | DEBIT | 218.51 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-08-13T11:28+05:30 | 9075 | DEBIT | 62.67 | PVR CINEMAS | fingerprint=false store=true
+SKIPPED: 2026-08-13T12:30+05:30 | 9075 | DEBIT | 60.00 | UPI/XEROX | fingerprint=false store=true
+SKIPPED: 2026-08-13T13:10+05:30 | 4821 | DEBIT | 89.01 | AMAZON PAY | fingerprint=false store=true
+SKIPPED: 2026-08-13T13:10+05:30 | 4821 | DEBIT | 89.01 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-08-13T14:18+05:30 | 4821 | DEBIT | 75.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-08-13T17:16+05:30 | 4821 | DEBIT | 129.67 | AMAZON PAY | fingerprint=false store=true
+SKIPPED: 2026-08-13T17:16+05:30 | 4821 | DEBIT | 129.67 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-08-13T21:00+05:30 | 9075 | DEBIT | 18.00 | UPI/MILK BOOTH | fingerprint=false store=true
+SKIPPED: 2026-08-14T09:05+05:30 | 4821 | DEBIT | 66.67 | UPI/PAN SHOP | fingerprint=false store=true
+SKIPPED: 2026-08-14T17:08+05:30 | 4821 | DEBIT | 1111.11 | NETFLIX | fingerprint=false store=true
+SKIPPED: 2026-08-14T17:08+05:30 | 4821 | DEBIT | 1111.11 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-08-14T18:35+05:30 | 4821 | CREDIT | 99.01 | NEFT INWARD | fingerprint=false store=true
+SKIPPED: 2026-08-14T20:10+05:30 | 4821 | DEBIT | 20.00 | UPI/WATER CAN | fingerprint=false store=true
+SKIPPED: 2026-07-16T09:59+05:30 | 9075 | DEBIT | 3333.33 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-07-16T11:30+05:30 | 4821 | CREDIT | 3000.00 | REVERSAL ATM WDL NOIDA | fingerprint=true store=true
+SKIPPED: 2026-07-16T11:59+05:30 | 9075 | DEBIT | 1111.11 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-07-16T14:09+05:30 | 4821 | DEBIT | 90.00 | UPI/PAN SHOP | fingerprint=true store=true
+SKIPPED: 2026-07-16T15:54+05:30 | 3310 | DEBIT | 1111.11 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-07-16T17:20+05:30 | 4821 | DEBIT | 5.00 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-07-17T10:10+05:30 | 9075 | DEBIT | 90.00 | UPI/BARBER | fingerprint=true store=true
+SKIPPED: 2026-07-17T12:40+05:30 | 9075 | DEBIT | 5.00 | UPI/TEA STALL | fingerprint=true store=true
+UNPARSED: id=m-00346-6073d8 | channel=sms | sender=AD-HDFCBK-S | body=268880 is your OTP for txn of Rs.5160.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-07-17T13:25+05:30 | 9075 | DEBIT | 62.67 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-07-17T13:37+05:30 | 4821 | DEBIT | 1234.56 | INDIAN OIL | fingerprint=true store=true
+UNPARSED: id=m-00349-9e854e | channel=sms | sender=VK-ICICIB | body=Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/160593 to avoid debit of Rs.22539.00
+SKIPPED: 2026-07-17T17:56+05:30 | 3310 | DEBIT | 1234.56 | BLINKIT | fingerprint=true store=true
+SKIPPED: 2026-07-18T08:30+05:30 | 9075 | DEBIT | 18.00 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-07-18T09:19+05:30 | 4821 | DEBIT | 99.99 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-07-18T11:06+05:30 | 4821 | DEBIT | 90.00 | UPI/BARBER | fingerprint=true store=true
+SKIPPED: 2026-07-18T12:13+05:30 | 4821 | DEBIT | 40.00 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-07-18T17:09+05:30 | 3310 | DEBIT | 1111.11 | DMART | fingerprint=true store=true
+SKIPPED: 2026-07-19T00:20+05:30 | 4821 | DEBIT | 412.67 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-07-19T14:08+05:30 | 4821 | DEBIT | 15.00 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-07-19T16:19+05:30 | 9075 | DEBIT | 675.67 | BLINKIT | fingerprint=true store=true
+SKIPPED: 2026-07-19T20:46+05:30 | 3310 | DEBIT | 675.67 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-19T22:36+05:30 | 4821 | CREDIT | 780.49 | NEFT INWARD | fingerprint=true store=true
+SKIPPED: 2026-07-20T08:53+05:30 | 9075 | DEBIT | 75.00 | UPI/PARKING | fingerprint=true store=true
+SKIPPED: 2026-07-20T09:22+05:30 | 9075 | DEBIT | 675.67 | SPOTIFY IND | fingerprint=true store=true
+UNPARSED: id=m-00363-46be88 | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9214053
+SKIPPED: 2026-07-20T10:47+05:30 | 4821 | DEBIT | 62.67 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-07-20T15:29+05:30 | 9075 | DEBIT | 154.49 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-20T21:38+05:30 | 3310 | DEBIT | 449.67 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-07-20T22:18+05:30 | 9075 | DEBIT | 90.00 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-07-21T09:02+05:30 | 4821 | DEBIT | 30.00 | UPI/AUTO RICKSHAW | fingerprint=true store=true
+SKIPPED: 2026-07-21T13:14+05:30 | 4821 | DEBIT | 12000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=true store=true
+SKIPPED: 2026-07-21T13:16+05:30 | 9075 | CREDIT | 12000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=true store=true
+SKIPPED: 2026-07-21T13:35+05:30 | 3310 | DEBIT | 3333.33 | SPOTIFY IND | fingerprint=true store=true
+UNPARSED: id=m-00372-eb6e8b | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/7047803
+SKIPPED: 2026-07-21T16:16+05:30 | 9075 | DEBIT | 12.50 | UPI/TEA STALL | fingerprint=true store=true
+SKIPPED: 2026-07-21T18:40+05:30 | 4821 | DEBIT | 12000.00 | IMPS/P2A/RAHUL SHARMA | fingerprint=true store=true
+SKIPPED: 2026-07-21T20:32+05:30 | 4821 | DEBIT | 47.33 | DMART | fingerprint=true store=true
+UNPARSED: id=m-00376-2d5be1 | channel=sms | sender=AD-HDFCBK-S | body=E-mandate! Rs.649.00 will be deducted from your HDFC Bank A/c XX4821 on 22-07-26 at 06:15 for NETFLIX ENTERTAINMENT. Avl Bal: Rs.46,868.04
+SKIPPED: 2026-07-22T08:26+05:30 | 9075 | DEBIT | 100.00 | UPI/KIRANA STORE | fingerprint=true store=true
+SKIPPED: 2026-07-22T12:18+05:30 | 4821 | DEBIT | 675.67 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-07-22T13:48+05:30 | 9075 | DEBIT | 129.67 | PVR CINEMAS | fingerprint=true store=true
+UNPARSED: id=m-00380-5b296b | channel=sms | sender=VM-ICICIB-T | body=Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: 2026-07-22T16:30+05:30 | 4821 | CREDIT | 212.67 | CASHBACK | fingerprint=true store=true
+SKIPPED: 2026-07-22T19:55+05:30 | 4821 | DEBIT | 50.00 | UPI/KIRANA STORE | fingerprint=true store=true
+SKIPPED: 2026-07-23T08:23+05:30 | 3310 | DEBIT | 675.67 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-07-23T16:52+05:30 | 9075 | CREDIT | 1250.33 | INTEREST CREDIT | fingerprint=true store=true
+SKIPPED: 2026-07-23T18:41+05:30 | 9075 | DEBIT | 5.00 | UPI/BARBER | fingerprint=true store=true
+SKIPPED: 2026-07-23T21:41+05:30 | 9075 | DEBIT | 10.00 | UPI/MILK BOOTH | fingerprint=true store=true
+SKIPPED: 2026-07-23T22:16+05:30 | 4821 | DEBIT | 675.67 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-24T09:15+05:30 | 4821 | DEBIT | 1249.99 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-07-24T12:28+05:30 | 9075 | DEBIT | 12.50 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-07-24T12:54+05:30 | 4821 | DEBIT | 100.00 | UPI/PARKING | fingerprint=true store=true
+UNPARSED: id=m-00391-81a7bd | channel=sms | sender=BP-DELHVY | body=Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/2305902
+SKIPPED: 2026-07-24T13:31+05:30 | 4821 | DEBIT | 2499.50 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-24T14:34+05:30 | 4821 | DEBIT | 789.01 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-07-24T15:24+05:30 | 4821 | DEBIT | 449.67 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-25T08:54+05:30 | 9075 | DEBIT | 12.50 | UPI/TEA STALL | fingerprint=true store=true
+SKIPPED: 2026-07-25T12:44+05:30 | 4821 | CREDIT | 1250.33 | UPI/P2P/REFUND | fingerprint=true store=true
+SKIPPED: 2026-07-25T13:02+05:30 | 4821 | DEBIT | 2499.50 | DMART | fingerprint=true store=true
+SKIPPED: 2026-07-25T14:22+05:30 | 3310 | DEBIT | 218.51 | BIGBASKET | fingerprint=true store=true
+SKIPPED: 2026-07-25T15:00+05:30 | 9075 | DEBIT | 50.00 | UPI/XEROX | fingerprint=true store=true
+UNPARSED: id=m-00400-754c7a | channel=sms | sender=VK-ICICIB | body=Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/889473 to avoid debit of Rs.9846.00
+SKIPPED: 2026-07-25T16:20+05:30 | 9075 | DEBIT | 75.00 | UPI/STATIONERY | fingerprint=true store=true
+SKIPPED: 2026-07-26T07:29+05:30 | 4821 | DEBIT | 40.00 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-07-26T09:47+05:30 | 4821 | DEBIT | 99.00 | UPI/VEGETABLE VENDOR | fingerprint=true store=true
+SKIPPED: 2026-07-26T09:50+05:30 | 9075 | DEBIT | 675.67 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-07-26T10:05+05:30 | 9075 | DEBIT | 0.50 | UPI MANDATE VERIFY | fingerprint=true store=true
+SKIPPED: 2026-07-26T14:23+05:30 | 4821 | DEBIT | 89.01 | BLINKIT | fingerprint=true store=true
+UNPARSED: id=m-00407-7bb07d | channel=sms | sender=VM-ICICIB-T | body=Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: 2026-07-26T22:54+05:30 | 4821 | CREDIT | 780.49 | NEFT INWARD | fingerprint=true store=true
+SKIPPED: 2026-07-27T12:00+05:30 | 9075 | DEBIT | 4200.00 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-07-27T12:09+05:30 | 4821 | DEBIT | 5.00 | UPI/BARBER | fingerprint=true store=true
+SKIPPED: 2026-07-27T13:05+05:30 | 9075 | CREDIT | 4200.00 | MYNTRA REFUND | fingerprint=true store=true
+SKIPPED: 2026-07-27T15:30+05:30 | 4821 | DEBIT | 90.00 | UPI/VEGETABLE VENDOR | fingerprint=true store=true
+SKIPPED: 2026-07-27T18:30+05:30 | 4821 | DEBIT | 899.99 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-07-27T19:37+05:30 | 3310 | DEBIT | 5555.55 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-07-27T22:16+05:30 | 4821 | DEBIT | 100.00 | UPI/WATER CAN | fingerprint=true store=true
+SKIPPED: 2026-07-28T08:59+05:30 | 9075 | DEBIT | 89.01 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-07-28T11:54+05:30 | 4821 | DEBIT | 899.99 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-07-28T12:01+05:30 | 9075 | DEBIT | 1111.11 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-07-28T12:38+05:30 | 9075 | DEBIT | 45.50 | UPI/PAN SHOP | fingerprint=true store=true
+SKIPPED: 2026-07-28T22:55+05:30 | 4821 | DEBIT | 45.50 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-07-29T08:20+05:30 | 9075 | DEBIT | 90.00 | UPI/BARBER | fingerprint=true store=true
+SKIPPED: 2026-07-29T09:13+05:30 | 9075 | DEBIT | 2499.50 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-07-29T09:20+05:30 | 4821 | DEBIT | 899.99 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-07-29T11:53+05:30 | 4821 | DEBIT | 899.99 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-29T17:06+05:30 | 4821 | DEBIT | 75.00 | UPI/STATIONERY | fingerprint=true store=true
+SKIPPED: 2026-07-29T21:22+05:30 | 4821 | DEBIT | 1234.56 | UBER INDIA | fingerprint=true store=true
+UNPARSED: id=m-00427-41f0d3 | channel=sms | sender=AD-HDFCBK-S | body=Avl Bal in a/c **4821 is Rs.27,244.49 as on 30-07-26. Download HDFC Bank MobileBanking app.
+SKIPPED: 2026-07-30T13:56+05:30 | 9075 | DEBIT | 76.49 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-07-30T17:12+05:30 | 9075 | DEBIT | 30.00 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-07-30T17:28+05:30 | 9075 | DEBIT | 90.00 | UPI/VEGETABLE VENDOR | fingerprint=true store=true
+SKIPPED: 2026-07-30T20:11+05:30 | 4821 | DEBIT | 154.49 | SPOTIFY IND | fingerprint=true store=true
+SKIPPED: 2026-07-30T21:06+05:30 | 4821 | DEBIT | 5555.55 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-07-30T21:43+05:30 | 9075 | DEBIT | 45.50 | UPI/TEA STALL | fingerprint=true store=true
+SKIPPED: 2026-07-31T11:41+05:30 | 3310 | DEBIT | 47.33 | APOLLO PHARMACY | fingerprint=true store=true
+UNPARSED: id=m-00435-f6ea00 | channel=sms | sender=AX-SWGGYX | body=Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: 2026-07-31T14:13+05:30 | 4821 | DEBIT | 30.00 | UPI/STATIONERY | fingerprint=true store=true
+SKIPPED: 2026-07-31T14:47+05:30 | 4821 | DEBIT | 675.67 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-31T20:27+05:30 | 4821 | DEBIT | 99.99 | IRCTC | fingerprint=true store=true
+SKIPPED: 2026-07-31T22:36+05:30 | 4821 | DEBIT | 5555.55 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-08-01T09:02+05:30 | 4821 | CREDIT | 45000.00 | SALARY CREDIT | fingerprint=true store=true
+SKIPPED: 2026-08-01T12:55+05:30 | 4821 | DEBIT | 154.49 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-08-01T14:06+05:30 | 4821 | DEBIT | 1249.99 | RELIANCE SMART | fingerprint=true store=true
+SKIPPED: 2026-08-01T14:21+05:30 | 4821 | DEBIT | 5000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=true store=true
+SKIPPED: 2026-08-01T14:22+05:30 | 9075 | CREDIT | 5000.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=true store=true
+SKIPPED: 2026-08-01T18:42+05:30 | 9075 | DEBIT | 20.00 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-08-01T20:06+05:30 | 4821 | DEBIT | 20.00 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-08-01T20:16+05:30 | 9075 | DEBIT | 5555.55 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-08-01T21:14+05:30 | 9075 | CREDIT | 18000.00 | NEFT INWARD SELF | fingerprint=true store=true
+SKIPPED: 2026-08-02T08:11+05:30 | 4821 | CREDIT | 1899.67 | SALARY CREDIT | fingerprint=true store=true
+SKIPPED: 2026-08-02T13:42+05:30 | 4821 | DEBIT | 25.00 | UPI/BARBER | fingerprint=true store=true
+SKIPPED: 2026-08-02T13:46+05:30 | 4821 | DEBIT | 99.99 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-08-02T13:55+05:30 | 4821 | CREDIT | 212.67 | CASHBACK | fingerprint=true store=true
+SKIPPED: 2026-08-03T08:07+05:30 | 9075 | DEBIT | 1999.01 | INDIAN OIL | fingerprint=true store=true
+UNPARSED: id=m-00454-738f32 | channel=sms | sender=AD-HDFCBK-S | body=Avl Bal in a/c **9075 is Rs.63,353.46 as on 03-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: 2026-08-03T16:43+05:30 | 4821 | DEBIT | 10.00 | UPI/PAN SHOP | fingerprint=true store=true
+SKIPPED: 2026-08-03T19:56+05:30 | 4821 | DEBIT | 1111.11 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-08-03T20:10+05:30 | 9075 | DEBIT | 89.01 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-08-04T10:59+05:30 | 3310 | DEBIT | 3333.33 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-08-04T17:26+05:30 | 4821 | DEBIT | 2499.50 | AMAZON PAY | fingerprint=true store=true
+UNPARSED: id=m-00460-76fae3 | channel=sms | sender=AD-HDFCBK-S | body=541027 is your OTP for txn of Rs.6214.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-08-04T19:50+05:30 | 4821 | DEBIT | 30.00 | UPI/MILK BOOTH | fingerprint=true store=true
+SKIPPED: 2026-08-04T22:36+05:30 | 4821 | DEBIT | 333.33 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-08-05T07:51+05:30 | 9075 | DEBIT | 25.00 | UPI/VEGETABLE VENDOR | fingerprint=true store=true
+SKIPPED: 2026-08-05T10:01+05:30 | 9075 | DEBIT | 15.00 | UPI/TEA STALL | fingerprint=true store=true
+SKIPPED: 2026-08-05T10:41+05:30 | 9075 | DEBIT | 100.00 | UPI/AUTO RICKSHAW | fingerprint=true store=true
+UNPARSED: id=m-00466-8e183a | channel=sms | sender=AD-HDFCBK-S | body=Avl Bal in a/c **9075 is Rs.63,124.45 as on 05-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: 2026-08-05T17:12+05:30 | 4821 | DEBIT | 89.01 | SPOTIFY IND | fingerprint=true store=true
+SKIPPED: 2026-08-05T22:42+05:30 | 9075 | DEBIT | 99.99 | BLINKIT | fingerprint=true store=true
+SKIPPED: 2026-08-06T08:27+05:30 | 9075 | DEBIT | 899.99 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-08-06T09:36+05:30 | 9075 | DEBIT | 30.00 | UPI/WATER CAN | fingerprint=true store=true
+SKIPPED: 2026-08-06T16:18+05:30 | 4821 | DEBIT | 22.50 | UPI/PARKING | fingerprint=true store=true
+SKIPPED: 2026-08-06T16:37+05:30 | 4821 | DEBIT | 12.50 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-08-06T16:50+05:30 | 9075 | DEBIT | 76.49 | DMART | fingerprint=true store=true
+UNPARSED: id=m-00474-88713c | channel=sms | sender=AX-SWGGYX | body=Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: 2026-08-06T20:08+05:30 | 9075 | DEBIT | 47.33 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-08-07T09:04+05:30 | 4821 | DEBIT | 99.99 | INDIAN OIL | fingerprint=true store=true
+SKIPPED: 2026-08-07T14:37+05:30 | 9075 | DEBIT | 20.00 | UPI/CHAIWALA | fingerprint=true store=true
+SKIPPED: 2026-08-07T15:28+05:30 | 9075 | DEBIT | 3500.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=true store=true
+SKIPPED: 2026-08-07T15:30+05:30 | 4821 | CREDIT | 3500.00 | IMPS/P2A/PARAG KAPOOR | fingerprint=true store=true
+UNPARSED: id=m-00480-05059c | channel=sms | sender=AX-SWGGYX | body=Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: 2026-08-07T18:40+05:30 | 9075 | DEBIT | 675.67 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-08-07T20:08+05:30 | 9075 | DEBIT | 66.67 | UPI/VEGETABLE VENDOR | fingerprint=true store=true
+SKIPPED: 2026-08-07T20:26+05:30 | 4821 | DEBIT | 3333.33 | DMART | fingerprint=true store=true
+SKIPPED: 2026-08-07T22:45+05:30 | 4821 | CREDIT | 212.67 | UPI/P2P/REFUND | fingerprint=true store=true
+SKIPPED: 2026-08-08T13:05+05:30 | 4821 | DEBIT | 675.67 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-08-08T15:05+05:30 | 4821 | DEBIT | 2499.50 | RELIANCE SMART | fingerprint=true store=true
+UNPARSED: id=m-00487-e01f8a | channel=sms | sender=AD-HDFCBK-S | body=784544 is your OTP for txn of Rs.5850.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-08-08T19:05+05:30 | 9075 | DEBIT | 50.00 | UPI/TEA STALL | fingerprint=true store=true
+SKIPPED: 2026-08-08T20:17+05:30 | 4821 | DEBIT | 2499.50 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-08-08T21:19+05:30 | 4821 | DEBIT | 1234.56 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-08-09T09:50+05:30 | 9075 | DEBIT | 75.00 | UPI/AUTO RICKSHAW | fingerprint=true store=true
+SKIPPED: 2026-08-09T18:04+05:30 | 9075 | DEBIT | 2499.50 | SWIGGY | fingerprint=true store=true
+SKIPPED: 2026-08-09T18:08+05:30 | 3310 | DEBIT | 899.99 | BLINKIT | fingerprint=true store=true
+SKIPPED: 2026-08-09T20:44+05:30 | 9075 | DEBIT | 45.50 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-08-09T21:59+05:30 | 4821 | DEBIT | 25.00 | UPI/BARBER | fingerprint=true store=true
+SKIPPED: 2026-08-10T11:11+05:30 | 9075 | DEBIT | 218.51 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-08-10T12:30+05:30 | 4821 | DEBIT | 1249.99 | UBER INDIA | fingerprint=true store=true
+SKIPPED: 2026-08-10T19:24+05:30 | 4821 | DEBIT | 100.00 | UPI/VEGETABLE VENDOR | fingerprint=true store=true
+SKIPPED: 2026-08-10T21:30+05:30 | 9075 | DEBIT | 2499.50 | ZOMATO | fingerprint=true store=true
+SKIPPED: 2026-08-10T21:53+05:30 | 3310 | DEBIT | 899.99 | BIGBASKET | fingerprint=true store=true
+SKIPPED: 2026-08-11T09:09+05:30 | 4821 | DEBIT | 15.00 | UPI/WATER CAN | fingerprint=true store=true
+SKIPPED: 2026-08-11T10:00+05:30 | 4821 | DEBIT | 66.67 | UPI/CHAIWALA | fingerprint=true store=true
+UNPARSED: id=m-00503-d7ff80 | channel=sms | sender=AD-HDFCBK-S | body=843106 is your OTP for txn of Rs.7806.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: 2026-08-11T13:23+05:30 | 4821 | CREDIT | 212.67 | SALARY CREDIT | fingerprint=true store=true
+SKIPPED: 2026-08-11T15:46+05:30 | 4821 | DEBIT | 899.99 | BLINKIT | fingerprint=true store=true
+SKIPPED: 2026-08-11T22:42+05:30 | 4821 | DEBIT | 18.00 | UPI/PARKING | fingerprint=true store=true
+SKIPPED: 2026-08-12T08:40+05:30 | 9075 | DEBIT | 99.99 | APOLLO PHARMACY | fingerprint=true store=true
+SKIPPED: 2026-08-12T12:52+05:30 | 9075 | DEBIT | 80.00 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-08-12T13:33+05:30 | 4821 | DEBIT | 99.00 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-08-12T17:03+05:30 | 9075 | DEBIT | 789.01 | SPOTIFY IND | fingerprint=true store=true
+SKIPPED: 2026-08-12T17:44+05:30 | 4821 | DEBIT | 218.51 | MYNTRA | fingerprint=true store=true
+SKIPPED: 2026-08-12T19:59+05:30 | 3310 | DEBIT | 62.67 | BIGBASKET | fingerprint=true store=true
+SKIPPED: 2026-08-13T11:28+05:30 | 9075 | DEBIT | 62.67 | PVR CINEMAS | fingerprint=true store=true
+SKIPPED: 2026-08-13T12:30+05:30 | 9075 | DEBIT | 60.00 | UPI/XEROX | fingerprint=true store=true
+SKIPPED: 2026-08-13T13:10+05:30 | 4821 | DEBIT | 89.01 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-08-13T14:18+05:30 | 4821 | DEBIT | 75.00 | UPI/MILK BOOTH | fingerprint=true store=true
+SKIPPED: 2026-08-13T17:16+05:30 | 4821 | DEBIT | 129.67 | AMAZON PAY | fingerprint=true store=true
+SKIPPED: 2026-08-13T21:00+05:30 | 9075 | DEBIT | 18.00 | UPI/MILK BOOTH | fingerprint=true store=true
+SKIPPED: 2026-08-14T09:05+05:30 | 4821 | DEBIT | 66.67 | UPI/PAN SHOP | fingerprint=true store=true
+SKIPPED: 2026-08-14T17:08+05:30 | 4821 | DEBIT | 1111.11 | NETFLIX | fingerprint=true store=true
+SKIPPED: 2026-08-14T18:35+05:30 | 4821 | CREDIT | 99.01 | NEFT INWARD | fingerprint=true store=true
+SKIPPED: 2026-08-14T20:10+05:30 | 4821 | DEBIT | 20.00 | UPI/WATER CAN | fingerprint=true store=true
+Stats[messagesRead=522, transactionsWritten=0, messagesSkipped=522]
+ledger rows: 272
+
+BUILD SUCCESSFUL in 910ms
+2 actionable tasks: 1 executed, 1 up-to-date
+Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.7.1/userguide/configuration_cache_enabling.html

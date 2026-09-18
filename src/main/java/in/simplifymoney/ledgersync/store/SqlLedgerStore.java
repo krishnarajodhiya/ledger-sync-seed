@@ -96,6 +96,17 @@ public final class SqlLedgerStore implements LedgerStore, AutoCloseable {
     }
 
     @Override
+    public boolean containsEquivalent(NormalizedTxn t) {
+        // Compare occurredAt by Instant to deduplicate across IST (+05:30) and UTC (+00:00) formatted messages
+        return all().stream().anyMatch(existing ->
+                existing.accountLast4().equals(t.accountLast4())
+                && existing.occurredAt().toInstant().equals(t.occurredAt().toInstant())
+                && existing.direction() == t.direction()
+                && existing.amount().compareTo(t.amount()) == 0
+                && existing.merchant().trim().equalsIgnoreCase(t.merchant().trim()));
+    }
+
+    @Override
     public List<NormalizedTxn> all() {
         List<NormalizedTxn> out = new ArrayList<>();
         try (Statement st = conn.createStatement();
@@ -118,6 +129,62 @@ public final class SqlLedgerStore implements LedgerStore, AutoCloseable {
         }
         return out;
     }
+
+    public void saveBalanceObservation(
+            in.simplifymoney.ledgersync.parse.ParsedTxn p) {
+
+        if (p.statedBalance() == null) {
+            return;
+        }
+
+        try (PreparedStatement ps = conn.prepareStatement(
+                "INSERT INTO balance_observations("
+                        + "account_last4, occurred_at, amount, direction, "
+                        + "stated_balance, source_message_id)"
+                        + " VALUES (?,?,?,?,?,?)")) {
+
+            ps.setString(1, p.accountLast4());
+            ps.setString(2, p.occurredAt().toString());
+            ps.setBigDecimal(3, p.amount());
+            ps.setString(4, p.direction().name());
+            ps.setBigDecimal(5, p.statedBalance());
+            ps.setString(6, p.sourceMessageId());
+            ps.executeUpdate();
+
+        } catch (SQLException e) {
+            throw new IllegalStateException(
+                    "could not save balance observation", e);
+        }
+    }
+
+    public List<BalanceObservation> allBalanceObservations() {
+        List<BalanceObservation> out = new ArrayList<>();
+
+        try (Statement st = conn.createStatement();
+             ResultSet rs = st.executeQuery(
+                     "SELECT account_last4, occurred_at, amount, direction, "
+                             + "stated_balance, source_message_id "
+                             + "FROM balance_observations "
+                             + "ORDER BY account_last4, occurred_at")) {
+
+            while (rs.next()) {
+                out.add(new BalanceObservation(
+                        rs.getString(1),
+                        OffsetDateTime.parse(rs.getString(2)),
+                        rs.getBigDecimal(3).setScale(2),
+                        rs.getString(4),
+                        rs.getBigDecimal(5).setScale(2),
+                        rs.getString(6)));
+            }
+
+        } catch (SQLException e) {
+            throw new IllegalStateException(
+                    "could not read balance observations", e);
+        }
+
+        return out;
+    }
+
 
     @Override
     public long count() {
